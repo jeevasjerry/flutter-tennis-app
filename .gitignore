@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+temp/
+
+.venv/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+tennis_ai_app/build/
+tennis_ai_app/.dart_tool/

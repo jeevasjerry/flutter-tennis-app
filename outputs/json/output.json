@@ -1,0 +1,677 @@
+[
+  {
+    "time_sec": 1.89,
+    "shot": "Forehand",
+    "confidence": 0.788
+  },
+  {
+    "time_sec": 2.05,
+    "shot": "Forehand",
+    "confidence": 0.757
+  },
+  {
+    "time_sec": 2.21,
+    "shot": "Forehand",
+    "confidence": 0.735
+  },
+  {
+    "time_sec": 2.37,
+    "shot": "Forehand",
+    "confidence": 0.728
+  },
+  {
+    "time_sec": 2.53,
+    "shot": "Forehand",
+    "confidence": 0.733
+  },
+  {
+    "time_sec": 2.68,
+    "shot": "Forehand",
+    "confidence": 0.741
+  },
+  {
+    "time_sec": 2.84,
+    "shot": "Forehand",
+    "confidence": 0.745
+  },
+  {
+    "time_sec": 3.0,
+    "shot": "Forehand",
+    "confidence": 0.745
+  },
+  {
+    "time_sec": 3.16,
+    "shot": "Forehand",
+    "confidence": 0.654
+  },
+  {
+    "time_sec": 3.32,
+    "shot": "Forehand",
+    "confidence": 0.651
+  },
+  {
+    "time_sec": 3.47,
+    "shot": "Forehand",
+    "confidence": 0.605
+  },
+  {
+    "time_sec": 3.63,
+    "shot": "Forehand",
+    "confidence": 0.59
+  },
+  {
+    "time_sec": 3.79,
+    "shot": "Forehand",
+    "confidence": 0.591
+  },
+  {
+    "time_sec": 3.95,
+    "shot": "Forehand",
+    "confidence": 0.587
+  },
+  {
+    "time_sec": 4.11,
+    "shot": "Forehand",
+    "confidence": 0.558
+  },
+  {
+    "time_sec": 4.26,
+    "shot": "Forehand",
+    "confidence": 0.545
+  },
+  {
+    "time_sec": 4.42,
+    "shot": "Forehand",
+    "confidence": 0.546
+  },
+  {
+    "time_sec": 4.58,
+    "shot": "Forehand",
+    "confidence": 0.482
+  },
+  {
+    "time_sec": 4.74,
+    "shot": "Forehand",
+    "confidence": 0.452
+  },
+  {
+    "time_sec": 4.9,
+    "shot": "Forehand",
+    "confidence": 0.5
+  },
+  {
+    "time_sec": 5.05,
+    "shot": "Forehand",
+    "confidence": 0.528
+  },
+  {
+    "time_sec": 5.21,
+    "shot": "Forehand",
+    "confidence": 0.574
+  },
+  {
+    "time_sec": 5.37,
+    "shot": "Forehand",
+    "confidence": 0.581
+  },
+  {
+    "time_sec": 5.53,
+    "shot": "Forehand",
+    "confidence": 0.578
+  },
+  {
+    "time_sec": 5.68,
+    "shot": "Forehand",
+    "confidence": 0.64
+  },
+  {
+    "time_sec": 5.84,
+    "shot": "Forehand",
+    "confidence": 0.601
+  },
+  {
+    "time_sec": 6.0,
+    "shot": "Forehand",
+    "confidence": 0.574
+  },
+  {
+    "time_sec": 6.16,
+    "shot": "Forehand",
+    "confidence": 0.427
+  },
+  {
+    "time_sec": 6.32,
+    "shot": "Backhand",
+    "confidence": 0.416
+  },
+  {
+    "time_sec": 6.47,
+    "shot": "Backhand",
+    "confidence": 0.468
+  },
+  {
+    "time_sec": 6.63,
+    "shot": "Backhand",
+    "confidence": 0.457
+  },
+  {
+    "time_sec": 6.79,
+    "shot": "Forehand",
+    "confidence": 0.446
+  },
+  {
+    "time_sec": 6.95,
+    "shot": "Backhand",
+    "confidence": 0.511
+  },
+  {
+    "time_sec": 7.11,
+    "shot": "Backhand",
+    "confidence": 0.518
+  },
+  {
+    "time_sec": 7.26,
+    "shot": "Backhand",
+    "confidence": 0.518
+  },
+  {
+    "time_sec": 7.42,
+    "shot": "Backhand",
+    "confidence": 0.575
+  },
+  {
+    "time_sec": 7.58,
+    "shot": "Backhand",
+    "confidence": 0.622
+  },
+  {
+    "time_sec": 7.74,
+    "shot": "Backhand",
+    "confidence": 0.519
+  },
+  {
+    "time_sec": 7.9,
+    "shot": "Backhand",
+    "confidence": 0.448
+  },
+  {
+    "time_sec": 8.05,
+    "shot": "Forehand",
+    "confidence": 0.414
+  },
+  {
+    "time_sec": 8.21,
+    "shot": "Forehand",
+    "confidence": 0.439
+  },
+  {
+    "time_sec": 8.37,
+    "shot": "Forehand",
+    "confidence": 0.512
+  },
+  {
+    "time_sec": 8.53,
+    "shot": "Forehand",
+    "confidence": 0.663
+  },
+  {
+    "time_sec": 8.69,
+    "shot": "Forehand",
+    "confidence": 0.709
+  },
+  {
+    "time_sec": 8.84,
+    "shot": "Forehand",
+    "confidence": 0.715
+  },
+  {
+    "time_sec": 9.0,
+    "shot": "Forehand",
+    "confidence": 0.689
+  },
+  {
+    "time_sec": 9.16,
+    "shot": "Forehand",
+    "confidence": 0.73
+  },
+  {
+    "time_sec": 9.32,
+    "shot": "Forehand",
+    "confidence": 0.727
+  },
+  {
+    "time_sec": 9.47,
+    "shot": "Forehand",
+    "confidence": 0.719
+  },
+  {
+    "time_sec": 9.63,
+    "shot": "Forehand",
+    "confidence": 0.706
+  },
+  {
+    "time_sec": 9.79,
+    "shot": "Forehand",
+    "confidence": 0.726
+  },
+  {
+    "time_sec": 9.95,
+    "shot": "Forehand",
+    "confidence": 0.742
+  },
+  {
+    "time_sec": 10.11,
+    "shot": "Forehand",
+    "confidence": 0.744
+  },
+  {
+    "time_sec": 10.26,
+    "shot": "Forehand",
+    "confidence": 0.739
+  },
+  {
+    "time_sec": 10.42,
+    "shot": "Forehand",
+    "confidence": 0.746
+  },
+  {
+    "time_sec": 10.58,
+    "shot": "Forehand",
+    "confidence": 0.748
+  },
+  {
+    "time_sec": 10.74,
+    "shot": "Forehand",
+    "confidence": 0.747
+  },
+  {
+    "time_sec": 10.9,
+    "shot": "Forehand",
+    "confidence": 0.738
+  },
+  {
+    "time_sec": 11.05,
+    "shot": "Forehand",
+    "confidence": 0.723
+  },
+  {
+    "time_sec": 11.21,
+    "shot": "Forehand",
+    "confidence": 0.714
+  },
+  {
+    "time_sec": 11.37,
+    "shot": "Forehand",
+    "confidence": 0.725
+  },
+  {
+    "time_sec": 11.53,
+    "shot": "Forehand",
+    "confidence": 0.741
+  },
+  {
+    "time_sec": 11.69,
+    "shot": "Forehand",
+    "confidence": 0.741
+  },
+  {
+    "time_sec": 11.84,
+    "shot": "Forehand",
+    "confidence": 0.741
+  },
+  {
+    "time_sec": 12.0,
+    "shot": "Forehand",
+    "confidence": 0.74
+  },
+  {
+    "time_sec": 12.16,
+    "shot": "Forehand",
+    "confidence": 0.718
+  },
+  {
+    "time_sec": 12.32,
+    "shot": "Forehand",
+    "confidence": 0.702
+  },
+  {
+    "time_sec": 12.48,
+    "shot": "Forehand",
+    "confidence": 0.698
+  },
+  {
+    "time_sec": 12.63,
+    "shot": "Forehand",
+    "confidence": 0.696
+  },
+  {
+    "time_sec": 12.79,
+    "shot": "Forehand",
+    "confidence": 0.719
+  },
+  {
+    "time_sec": 12.95,
+    "shot": "Forehand",
+    "confidence": 0.739
+  },
+  {
+    "time_sec": 13.11,
+    "shot": "Forehand",
+    "confidence": 0.749
+  },
+  {
+    "time_sec": 13.26,
+    "shot": "Forehand",
+    "confidence": 0.736
+  },
+  {
+    "time_sec": 13.42,
+    "shot": "Forehand",
+    "confidence": 0.749
+  },
+  {
+    "time_sec": 13.58,
+    "shot": "Forehand",
+    "confidence": 0.75
+  },
+  {
+    "time_sec": 13.74,
+    "shot": "Forehand",
+    "confidence": 0.744
+  },
+  {
+    "time_sec": 13.9,
+    "shot": "Forehand",
+    "confidence": 0.764
+  },
+  {
+    "time_sec": 14.05,
+    "shot": "Forehand",
+    "confidence": 0.741
+  },
+  {
+    "time_sec": 14.21,
+    "shot": "Forehand",
+    "confidence": 0.684
+  },
+  {
+    "time_sec": 14.37,
+    "shot": "Forehand",
+    "confidence": 0.636
+  },
+  {
+    "time_sec": 14.53,
+    "shot": "Forehand",
+    "confidence": 0.607
+  },
+  {
+    "time_sec": 14.69,
+    "shot": "Forehand",
+    "confidence": 0.603
+  },
+  {
+    "time_sec": 14.84,
+    "shot": "Forehand",
+    "confidence": 0.597
+  },
+  {
+    "time_sec": 15.0,
+    "shot": "Forehand",
+    "confidence": 0.589
+  },
+  {
+    "time_sec": 15.16,
+    "shot": "Forehand",
+    "confidence": 0.589
+  },
+  {
+    "time_sec": 15.32,
+    "shot": "Forehand",
+    "confidence": 0.589
+  },
+  {
+    "time_sec": 15.48,
+    "shot": "Forehand",
+    "confidence": 0.544
+  },
+  {
+    "time_sec": 15.63,
+    "shot": "Forehand",
+    "confidence": 0.535
+  },
+  {
+    "time_sec": 15.79,
+    "shot": "Forehand",
+    "confidence": 0.535
+  },
+  {
+    "time_sec": 15.95,
+    "shot": "Forehand",
+    "confidence": 0.535
+  },
+  {
+    "time_sec": 16.11,
+    "shot": "Forehand",
+    "confidence": 0.535
+  },
+  {
+    "time_sec": 16.27,
+    "shot": "Forehand",
+    "confidence": 0.535
+  },
+  {
+    "time_sec": 16.42,
+    "shot": "Forehand",
+    "confidence": 0.535
+  },
+  {
+    "time_sec": 16.58,
+    "shot": "Forehand",
+    "confidence": 0.535
+  },
+  {
+    "time_sec": 16.74,
+    "shot": "Forehand",
+    "confidence": 0.535
+  },
+  {
+    "time_sec": 16.9,
+    "shot": "Forehand",
+    "confidence": 0.535
+  },
+  {
+    "time_sec": 17.05,
+    "shot": "Forehand",
+    "confidence": 0.535
+  },
+  {
+    "time_sec": 17.21,
+    "shot": "Forehand",
+    "confidence": 0.535
+  },
+  {
+    "time_sec": 17.37,
+    "shot": "Forehand",
+    "confidence": 0.535
+  },
+  {
+    "time_sec": 17.53,
+    "shot": "Forehand",
+    "confidence": 0.535
+  },
+  {
+    "time_sec": 17.69,
+    "shot": "Forehand",
+    "confidence": 0.611
+  },
+  {
+    "time_sec": 17.84,
+    "shot": "Forehand",
+    "confidence": 0.632
+  },
+  {
+    "time_sec": 18.0,
+    "shot": "Forehand",
+    "confidence": 0.606
+  },
+  {
+    "time_sec": 18.16,
+    "shot": "Forehand",
+    "confidence": 0.625
+  },
+  {
+    "time_sec": 18.32,
+    "shot": "Forehand",
+    "confidence": 0.622
+  },
+  {
+    "time_sec": 18.48,
+    "shot": "Forehand",
+    "confidence": 0.605
+  },
+  {
+    "time_sec": 18.63,
+    "shot": "Forehand",
+    "confidence": 0.591
+  },
+  {
+    "time_sec": 18.79,
+    "shot": "Forehand",
+    "confidence": 0.621
+  },
+  {
+    "time_sec": 18.95,
+    "shot": "Forehand",
+    "confidence": 0.614
+  },
+  {
+    "time_sec": 19.11,
+    "shot": "Forehand",
+    "confidence": 0.61
+  },
+  {
+    "time_sec": 19.27,
+    "shot": "Forehand",
+    "confidence": 0.617
+  },
+  {
+    "time_sec": 19.42,
+    "shot": "Forehand",
+    "confidence": 0.613
+  },
+  {
+    "time_sec": 19.58,
+    "shot": "Forehand",
+    "confidence": 0.651
+  },
+  {
+    "time_sec": 19.74,
+    "shot": "Forehand",
+    "confidence": 0.659
+  },
+  {
+    "time_sec": 19.9,
+    "shot": "Forehand",
+    "confidence": 0.669
+  },
+  {
+    "time_sec": 20.06,
+    "shot": "Forehand",
+    "confidence": 0.634
+  },
+  {
+    "time_sec": 20.21,
+    "shot": "Forehand",
+    "confidence": 0.449
+  },
+  {
+    "time_sec": 20.37,
+    "shot": "Forehand",
+    "confidence": 0.437
+  },
+  {
+    "time_sec": 20.53,
+    "shot": "Forehand",
+    "confidence": 0.436
+  },
+  {
+    "time_sec": 20.69,
+    "shot": "Forehand",
+    "confidence": 0.435
+  },
+  {
+    "time_sec": 20.84,
+    "shot": "Forehand",
+    "confidence": 0.438
+  },
+  {
+    "time_sec": 21.0,
+    "shot": "Forehand",
+    "confidence": 0.455
+  },
+  {
+    "time_sec": 21.16,
+    "shot": "Backhand",
+    "confidence": 0.449
+  },
+  {
+    "time_sec": 21.32,
+    "shot": "Backhand",
+    "confidence": 0.508
+  },
+  {
+    "time_sec": 21.48,
+    "shot": "Forehand",
+    "confidence": 0.499
+  },
+  {
+    "time_sec": 21.63,
+    "shot": "Forehand",
+    "confidence": 0.475
+  },
+  {
+    "time_sec": 21.79,
+    "shot": "Backhand",
+    "confidence": 0.439
+  },
+  {
+    "time_sec": 21.95,
+    "shot": "Forehand",
+    "confidence": 0.473
+  },
+  {
+    "time_sec": 22.11,
+    "shot": "Backhand",
+    "confidence": 0.499
+  },
+  {
+    "time_sec": 22.27,
+    "shot": "Backhand",
+    "confidence": 0.472
+  },
+  {
+    "time_sec": 22.42,
+    "shot": "Backhand",
+    "confidence": 0.51
+  },
+  {
+    "time_sec": 22.58,
+    "shot": "Backhand",
+    "confidence": 0.599
+  },
+  {
+    "time_sec": 22.74,
+    "shot": "Backhand",
+    "confidence": 0.617
+  },
+  {
+    "time_sec": 22.9,
+    "shot": "Backhand",
+    "confidence": 0.556
+  },
+  {
+    "time_sec": 23.06,
+    "shot": "Backhand",
+    "confidence": 0.382
+  }
+]
